@@ -1,0 +1,16 @@
+{
+    "name": "fieryrain/xmpush",
+    "description": "小米消息推送",
+    "authors": [
+        {
+            "name": "Vincent",
+            "email": "soothion@sina.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"classmap": [
+			"xmpush"
+		]
+	},
+}
