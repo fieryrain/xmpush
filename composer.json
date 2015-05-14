@@ -1,6 +1,7 @@
 {
     "name": "fieryrain/xmpush",
     "description": "小米消息推送",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Vincent",
